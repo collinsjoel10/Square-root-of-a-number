@@ -28,8 +28,8 @@ squareroot(num1,iternum)
 #print("Square root of the number:",squareroot(num1,iternum))
 /*
 Program to find the square root for the given number(newton's method) using function.
-Developed by: 
-RegisterNumber:  
+Developed by: joel p
+RegisterNumber:  22008934
 */
 ```
 
